@@ -4,7 +4,7 @@
 # migration via un CSV
 id: fichiers_csv
 label: Migration des fichiers du site PF
-migration_group: migration_fichier_pf
+migration_group: migration_fichier_pf2
 migration_tags:
   - CSV
   - file
