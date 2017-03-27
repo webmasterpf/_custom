@@ -1,3 +1,5 @@
+#test commit
+
 ## Migration des fichiers du site PF selon méthode Drupal8
 # https://evolvingweb.ca/blog/drupal-8-migration-migrating-files-images-part-3
 # besoin du module https://www.drupal.org/project/migrate_source_csv
@@ -23,7 +25,7 @@ source:
    #colonne du fichier CSV contenant les nom des fichiers
     - filepath
   # Source field definitions.
-  
+
   fields:
     Image file: Fichiers associés à la migration du site PF
   # Since we are writing YAML, we do not have ways to manipulate
